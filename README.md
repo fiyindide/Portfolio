@@ -8,7 +8,7 @@ This is a portfolio of a software tester
 - Courses
 - Examples of my work
   - Test plans
-    - Jumia
+    - [Jumia](https://docs.google.com/spreadsheets/d/1sE1iitrYtifbsRP6rpbwEDkuyMmX0HVtQ0YqYSHf6WA/edit#gid=1572104662)
     - Facebook
   - Test cases documentation
   - test Summary reports
