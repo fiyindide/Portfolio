@@ -1,7 +1,7 @@
 # Portfolio
 This is a portfolio of a software tester
 
-- About Me
+- [About Me](#About Me) 
 - CV
 - Skills
 - Tools
@@ -55,7 +55,26 @@ You can find examples of the described skills in the Examples of my work section
 - familiar with the use of aliases and wildcards
 - know the difference between joins and unions and can use them in queries
 
-##Python fundamentals
+## Python fundamentals
 - can write simple functions and algorithms
 - know when to use for and while
 - able to comprehend easy codes
+
+# Tools
+
+## TestRail
+- know how to create test cases and test suits
+- able to run created test cases
+- know how to use dashboards and statistics
+
+## Jira
+- know how to create bug reports
+- able to create projects and track their progress
+
+## SoapUI
+- Browser developer tools
+
+## Trello and Notion
+- know how to use Kanban boards and track project progress
+- Mind maps & diagrams
+- know how to design beautifully simple mind maps
