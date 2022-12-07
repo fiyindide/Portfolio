@@ -1,7 +1,7 @@
 # Portfolio
 This is a portfolio of a software tester
 
-- [About Me](#About Me) 
+- [About Me](About Me) 
 - CV
 - Skills
 - Tools
