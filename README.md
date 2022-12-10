@@ -16,16 +16,13 @@ This is a portfolio of a software tester
 
 
 # About Me
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as an Enginnering Student. And on the other, due to my personality, I love to communicate with people and solve problems.
+I have experience in all testing phases as an agile software tester. I can use tools to create test plans and execute test cases for both web and mobile applications. Skilled in test automation, using the Selenium and testNG frameworks, reporting, API testing, performance testing, database testing, and defect investigation. 
+I have a knack for picking up on business procedures quickly, and I'm effective at interacting with both users and developers.
 
-I got my Bachelor's Degree in Enginnering from the Federal University of Agriculture and my Postgraduate Diploma in Computer Science from Redeemer's University, Ede, Nigeria
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+As a proud Software Test Evangelist, I also like professional advancement advising, especially for recent graduates.
 
 # CV
-You can download my CV here.
+You can download my CV [here](https://drive.google.com/drive/folders/1t8ChHAfgdGM6f_1fSzIpx8xjnsX9nPrG)
 
 # Skills
 You can find examples of the described skills in the Examples of my work section.
@@ -55,8 +52,8 @@ You can find examples of the described skills in the Examples of my work section
 - familiar with the use of aliases and wildcards
 - know the difference between joins and unions and can use them in queries
 
-## Python fundamentals
-- can write simple functions and algorithms
+## Java fundamentals
+- can write test automation scripts with selenium web driver
 - know when to use for and while
 - able to comprehend easy codes
 
