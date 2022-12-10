@@ -22,7 +22,7 @@ I have a knack for picking up on business procedures quickly, and I'm effective 
 As a proud Software Test Evangelist, I also like professional advancement advising, especially for recent graduates.
 
 # CV
-You can download my CV [here](https://drive.google.com/drive/folders/1t8ChHAfgdGM6f_1fSzIpx8xjnsX9nPrG)
+You can download my CV [here]([https://drive.google.com/drive/folders/1t8ChHAfgdGM6f_1fSzIpx8xjnsX9nPrG](https://docs.google.com/document/d/1bjg1izrbdFlEuGLRpZvsHEIUr28LnLHCSkvZCTntKX4/edit?usp=sharing))
 
 # Skills
 You can find examples of the described skills in the Examples of my work section.
